@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shaurya-Ranjan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js and Flutter
 - 📫 How to reach me ... Just Email me at shaurya.ranjan.12@gmail.com
 
 <!---
